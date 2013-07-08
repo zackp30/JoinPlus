@@ -2,5 +2,5 @@ name: JoinPlus
 main: in.treecraft.dev.mh0.JoinPlus.JoinPlus
 version: 1.0.0
 description: Changes the default join behaviour.
-author: Micheal Harker
+author: Micheal Harker and Zack Piper
 softdepend: [GeoIPTools]
